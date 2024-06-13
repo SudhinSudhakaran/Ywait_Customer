@@ -1,0 +1,635 @@
+{
+  "project_info": {
+    "project_number": "113502388440",
+    "firebase_url": "https://book-my-slot-fb5bf.firebaseio.com",
+    "project_id": "book-my-slot-fb5bf",
+    "storage_bucket": "book-my-slot-fb5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:01b3580f468ca07f1757ad",
+        "android_client_info": {
+          "package_name": "com.skillikz.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-3tp62ohq3abhq8121bmdra1f11tlfg4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skillikz.customer",
+            "certificate_hash": "2495420fcbb0aa5427e960f1ed8fceb15896feb3"
+          }
+        },
+        {
+          "client_id": "113502388440-5bj9uov3ga0j0gkapa2n3vipg5fh142f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skillikz.customer",
+            "certificate_hash": "1dceff845c6f48646ad726b7aa4e2b0ba379efd4"
+          }
+        },
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:be36f6f135a80f231757ad",
+        "android_client_info": {
+          "package_name": "com.skillikz.serve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:ff67d27dd9810ebb1757ad",
+        "android_client_info": {
+          "package_name": "com.stackon.ywaitadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:cc2bd597ba06f8fb1757ad",
+        "android_client_info": {
+          "package_name": "com.stackontech.bookmyslot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-qvl0n516v9ggh8pj0kkmfghs2e94j122.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stackontech.bookmyslot",
+            "certificate_hash": "1dceff845c6f48646ad726b7aa4e2b0ba379efd4"
+          }
+        },
+        {
+          "client_id": "113502388440-s9r86svcqh06ghuo8butchvbtlnn0vi3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stackontech.bookmyslot",
+            "certificate_hash": "2495420fcbb0aa5427e960f1ed8fceb15896feb3"
+          }
+        },
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:5bd31bf1ce1b000b1757ad",
+        "android_client_info": {
+          "package_name": "com.ywait.adventa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:236a765431f038ba1757ad",
+        "android_client_info": {
+          "package_name": "com.ywait.adventaserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:bed74178271324581757ad",
+        "android_client_info": {
+          "package_name": "com.ywait.aster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:38ec111d4f65e7c01757ad",
+        "android_client_info": {
+          "package_name": "com.ywait.aster.serve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:ab6b10f816f50d361757ad",
+        "android_client_info": {
+          "package_name": "com.ywait.firstResponse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:ec6091cdab88a4ed1757ad",
+        "android_client_info": {
+          "package_name": "com.ywait.firstResponse.serve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:e42f21b8d35d13911757ad",
+        "android_client_info": {
+          "package_name": "com.ywait.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:c31a745068a4160f1757ad",
+        "android_client_info": {
+          "package_name": "com.ywait.services.serve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:7f114bf2497d7f7d1757ad",
+        "android_client_info": {
+          "package_name": "com.ywaitapp.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:23e461c7e28d93d51757ad",
+        "android_client_info": {
+          "package_name": "com.ywaitapp.demo.serve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:2b9e1bd3782c9e7b1757ad",
+        "android_client_info": {
+          "package_name": "com.ywaitapp.omh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113502388440:android:26425021f19020e31757ad",
+        "android_client_info": {
+          "package_name": "com.ywaitapp.omh.serve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113502388440-g8qfg1qbiifi9g42bbfpef28tkkvn9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ9h9C_YH9HF91nzsthxNd-ElN2dviS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113502388440-erc3a0v0rnjr8piaoatmd75r5lcjairc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113502388440-00d1rv85icmfrk7bti0vmsli415svvr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ywaitapp.littlesmiles",
+                "app_store_id": "1603392048"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

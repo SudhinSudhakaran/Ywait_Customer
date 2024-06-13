@@ -1,0 +1,13 @@
+current directory: /Users/stackon/Documents/works/sudhin/ywait/Ywait_Customer/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/stackon/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/stackon/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20221228-62308-m9t1im.rb extconf.rb
+creating Makefile
+
+current directory: /Users/stackon/Documents/works/sudhin/ywait/Ywait_Customer/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/stackon/Documents/works/sudhin/ywait/Ywait_Customer/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/stackon/Documents/works/sudhin/ywait/Ywait_Customer/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
